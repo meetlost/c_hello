@@ -1,2 +1,0 @@
-# c_hello
-A hello world program in C
